@@ -298,4 +298,9 @@ body #appSection{
     -webkit-animation: swinging 3s ease-in-out forwards infinite;
 }
 
-fafsas
+input[type="radio"]{
+    vertical-align: middle;
+    width: 17px;
+    height: 17px;
+
+}
