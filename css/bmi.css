@@ -287,3 +287,14 @@ body #appSection{
 #E2 , #E3 , #E4 , #E5 , #E6{
     opacity: 0;
 }
+
+@-webkit-keyframes swinging{
+    0%{-webkit-transform: translateY(-50%)}
+    50%{-webkit-transform: translateY(0%)}
+    100%{-webkit-transform: translateY(-50%)}
+}
+
+#arrow{
+    -webkit-animation: swinging 3s ease-in-out forwards infinite;
+}
+
