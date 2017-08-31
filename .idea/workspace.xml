@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d313ec5f-847e-4fc5-8c6b-693bfde5918e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -200,7 +199,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488569147883</updated>
       <workItem from="1488569152290" duration="3292000" />
-      <workItem from="1504187896232" duration="154000" />
+      <workItem from="1504187896232" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="Test from PHP Storm">
       <created>1504187949568</created>
@@ -209,11 +208,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504187949568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test from PHP Storm_2">
+      <created>1504188059234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504188059234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3446000" />
+    <option name="totallyTimeSpent" value="3465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -246,7 +252,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test from PHP Storm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test from PHP Storm" />
+    <MESSAGE value="Test from PHP Storm_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test from PHP Storm_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
